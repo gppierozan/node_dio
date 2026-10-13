@@ -1,0 +1,12 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "description": "meu primeiro projeto em node",
+  "license": "ISC",
+  "author": "giampaolo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
